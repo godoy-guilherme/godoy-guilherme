@@ -14,6 +14,12 @@ Acredito que qualidade vai muito além de encontrar defeitos — trata-se de con
 
 ---
 
+## Certificações
+
+- CTFL - Certified Tester Foundation Level — BSTQB
+
+---
+
 ## Tecnologias e Ferramentas
 
 **Testes & Automação**
